@@ -14,6 +14,8 @@
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/editEmail"
             android:hint="Email"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
             android:inputType="textEmailAddress"
             android:textSize="20sp"
             android:layout_width="match_parent"
@@ -24,6 +26,8 @@
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/editPassword"
             android:hint="Password"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
             android:inputType="textPassword"
             android:textSize="20sp"
             android:layout_width="match_parent"
