@@ -1,0 +1,2 @@
+rootProject.name = "UberAppClone"
+include ':app'
